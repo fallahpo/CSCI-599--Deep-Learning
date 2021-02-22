@@ -1,1 +1,1 @@
-# CSCI-599--Deep-Learning
+# CSCI-599-Deep-Learning
